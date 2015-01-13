@@ -1,3 +1,4 @@
 #!/bin/bash
-cd ~/www/
-git clone https://github.com/erikdonohoo/cs452-lab0.git
+cd /home/ubuntu/www/
+git clone https://github.com/erikdonohoo/cs462-lab0.git
+chown -R ubuntu:ubuntu cs462-lab0/
