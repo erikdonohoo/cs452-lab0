@@ -1,8 +1,67 @@
 # Lab 2
 
-Secret Message Sent
-* Sent to Teancum Besendorfer
-* -----BEGIN PGP MESSAGE-----
+### Key Info
+Public Key
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: GPGTools - https://gpgtools.org
+
+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
+NAIuerHTyP7BO4KWS74=
+=RHpm
+-----END PGP PUBLIC KEY BLOCK-----
+
+Key Id 4096R/F5357CEB
+Fingerprint B34B08FDCD919F9C7FBD75770290E473F5357CEB
+
+
+### Secret Message Sent
+Sent to Teancum Besendorfer
+-----BEGIN PGP MESSAGE-----
 Version: Keybase OpenPGP v2.0.1
 Comment: https://keybase.io/crypto
 
@@ -38,8 +97,45 @@ m+PLXMPe6Pf0OFhW5OQ7d3U2SANRjTrBVm5ZF+U9+RpQM3af37lzFVoJTLoUvK48
 jKUlVatafLmsdhfi7BvahPkpA7ggXsiMa3iO9boVnVBPJcHkSIw=
 =WzhH
 -----END PGP MESSAGE-----
-* Yo bro.
 
-Secret Message Received
-* From Teancum Besendorfer
-* 
+Yo bro.
+
+### Secret Message Received
+From Teancum Besendorfer
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+hQIMAxdnwWIRY8FOAQ/+MR9d0jcCeIftg8RVsGxf2S2qJZT4cBzCQyNXrVkTWF//
+09HRz/oW2UBuk+Hyvq88bvAi6Wm1v+bO8koRZFao3suP/bvbpMX5cedoqwyMQ6cS
+H3QgddoC46+y1M+yraSBNI5oC9Edl2VHReeRDbXd1n5fmtHHsV4HabzXYaMyTr2v
+YPRRcolFtjiqocAnC/QBhN3uWx/A7rrB09l4KL0L+O/uasv5VBXKhSUousWwP7Aj
+2lKRJ9nBNjta40/pvhs/DyIprMFHfGEM8zDiSID4lIiTWSa+whNCsl9GcQ5gMeSn
+hdRkLkX1Ef5E3BLxiMQy7vw2J/LhK2PG+RnDylMgqrkPsom0qNOIcwlLFpUYO6bV
+siY9Gv0tlIt0riKa+YszmVyMjKlzAQoDsEw/KTnolu9Szk2QGGJ4CXZ+gtnC4YmC
+OKHEgLi9x4RbAv+luK+QfhELR6Sk6zl9Msoxa2Mr4MThxImYDFRXcpDly4dksmsV
+/HH2pzFpWm+sSW2f/XwZ/ltW70YhlaSTXuuYyKJp46ERL+UkLVJJWtN822MCeQ4c
+gV+MgFI7+0f8WvJk5mECUSJ7/AYvyXBTgkacnIz5whpiNZezqaE/0K9sV76Hw+bW
+F/Ides6AxZJmbnYNzBpWFS8/ybUl6ynGTdJwW2h24nG/EkPWNpBxa4QP/w4DsqzS
+wLwB56C6jX8e86LwCYevKKeLBbeswpuBI306/ydqRklVLU+59BVVzOvLpjPHGA+W
+sJeeHpxttElLXY2pSzBsK20irP/RUIoh0mWPtF+5ITUC8OCFWV1JbzPChDhQ+o4J
+Lg48CI4sBkHY36/HRPbQ/+0y+zTAyt/hBWvptGrmduLOIr45hHeAaS6vAc+iP4hi
+4U3I8C1hcJbYvUZElIS0B1MYh5xb1wZi/2i7tIofWxDUKJNuKjNBgB6E8T3mMxNU
+HRKnTX3v1/MjuHwq/kxdm95FZIYSuxOI+FxycS/nVeWNwvQrz9hpy4+pFf1mXeTm
+cmqvaFuupU1FqKiyDzsVa1RzCQZdAam03XksWvD7tiTMHvTkInZEdLtTGEpSW/kA
+iOIrVwh2vmUO15lpTduvK3CcYsKdgYfeK/fwsWjfLLjyQOu7krShyij8tmCkV+ey
+quPSTwAaihmkeI1W7mI0iBUE9fTj6tYZqY1CA7lEEEcZ7uJRzJLqD8wNOFBu7g==
+=zMjm
+-----END PGP MESSAGE-----
+
+Message to Erik!
+
+### Keybase Identifier
+brodeo23
+
+### Questions
+1. Physical gathering to share public keys and sign them
+2. It's like a personal digital ID that is not signed by a signing authority
+3. It provides a way to find and verify public keys for people you may know without meeting in person
+4. It allows you to verify your ownership of various social accounts and tie that to your public key identity
+5. Keybase's advantage is you can find and verify the identity of keys by attaching them to other digital identities from people you trust. If you are certain that twitter user @me is someone you know, and there is a keybase user bound to that identity, you can trust that the public key they are claiming is the same person as the one who owns @me.  Disadvantages are it is only as trustworthy as the accounts the key is attached too.
