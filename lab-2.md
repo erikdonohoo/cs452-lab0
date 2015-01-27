@@ -2,7 +2,8 @@
 
 ### Key Info
 Public Key
------BEGIN PGP PUBLIC KEY BLOCK-----
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----  
 Comment: GPGTools - https://gpgtools.org
 
 mQINBFTBD6cBEAC8a0d3HFVwkDVMP4xHAeHIC4uF1veAoRef5JC0GlizB0kQgm/F
@@ -56,11 +57,13 @@ NAIuerHTyP7BO4KWS74=
 -----END PGP PUBLIC KEY BLOCK-----
 
 Key Id 4096R/F5357CEB
+
 Fingerprint B34B08FDCD919F9C7FBD75770290E473F5357CEB
 
 
 ### Secret Message Sent
 Sent to Teancum Besendorfer
+
 -----BEGIN PGP MESSAGE-----
 Version: Keybase OpenPGP v2.0.1
 Comment: https://keybase.io/crypto
